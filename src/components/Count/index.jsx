@@ -1,3 +1,4 @@
+// 容器组件
 import React, {Component} from 'react';
 
 export default class Count extends Component {
